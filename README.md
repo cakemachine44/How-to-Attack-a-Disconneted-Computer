@@ -1,6 +1,7 @@
 # How-to-Attack-a-Disconneted-Computer
 
 CITATION
+
 @article{ghannoum2020attack,
   title={How to Attack a Disconnected Computer},
   author={Ghannoum, Ehab Ahmad and Ayesh, Malek Ahmad and Malluhi, Qutaibah and others},
